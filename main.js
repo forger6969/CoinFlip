@@ -1,0 +1,1 @@
+let hello2 = alert('Welcome to web! Created by Forger')
